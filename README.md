@@ -449,7 +449,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 ### AIvolution
-- *Emad Anwer Naguib* - *Ahmed Salah Fouda* - *Ahmed Salah Ali* - *Yousef Fady* -*Marwan Mohamed*
+- *Emad Anwer Naguib*
+-  *Ahmed Salah Fouda*
+- *Ahmed Salah Ali*
+- *Yousef Fady*
+-*Marwan Mohamed*
 
 ---
 
