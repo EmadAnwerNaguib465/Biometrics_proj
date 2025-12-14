@@ -466,15 +466,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - scikit-learn for similarity metrics
 - dlib for face recognition models
 
----
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-
-- Open an issue on GitHub
-- Email: your.email@example.com
-- Documentation: [Wiki](https://github.com/yourrepo/wiki)
 
 ---
 
@@ -498,7 +489,7 @@ For issues, questions, or suggestions:
 
 <div align="center">
 
-**Made with ❤️ using Python and Streamlit**
+
 
 [⬆ Back to Top](#-multi-modal-biometric-authentication-system)
 
