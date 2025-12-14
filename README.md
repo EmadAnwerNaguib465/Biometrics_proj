@@ -453,7 +453,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 -  *Ahmed Salah Fouda*
 - *Ahmed Salah Ali*
 - *Yousef Fady*
--*Marwan Mohamed*
+- *Marwan Mohamed*
 
 ---
 
